@@ -10,11 +10,12 @@
     </head>
     <body>
         <div class="container">
+            <h1 class="text-danger">Scroll Intinite</h1>
 
            <div id="app">
 
-               <post></post>
-               
+               <posts></posts>
+
            </div>
 
         </div>
