@@ -13,6 +13,7 @@
 				</div>
 
 				<infinite-loading @infinite="infiniteHandler"></infinite-loading>
+				
 			</div>
 		</div>
 	</div>
